@@ -14,8 +14,10 @@ class ModulesTableSeeder extends Seeder
     {
         $modules = [
             'Matter Management',
-            'Legal Billing',
+            'Case',
+            'Billing',
             'Documents',
+            'Auth',
             'Time and Expense Recording',
             'Legal Calendaring',
             'Client Accounting',
